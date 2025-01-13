@@ -1,0 +1,11 @@
+The information retrieval strategy for this database follows the Vector Space model.
+
+It is processed and stored at
+
+/irCystic/src/output/index.csv
+
+You can load and calculate any query from it.
+
+The default configuration follows the specifications detailed in the .cfg files inside
+
+/irCystic/src/config/
